@@ -1,0 +1,93 @@
+body{
+    background-color: #bdf5bd;
+	
+}
+
+#menu{ /*#=id*/
+   background-color: rgba(0, 0,255, 0.2);
+   
+   
+}
+
+#body {
+	  background: #bdf5bd;
+}
+
+img {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+h4 {
+	background: pink;
+	width: 20%;
+	height: 20%;
+	border-radius: 20px;
+}
+
+h1 {
+	font-size:12px;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	position: relative;
+	margin-top: 1px;
+	padding: 10px;
+	background: bdf5bd;
+	
+}
+
+input {
+	background: rgba(0, 0,255, 0.2);
+	font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+.div_login {
+	margin: auto;
+	border: solid 2px purple;
+	border-radius: 30px;
+	padding: 20px;
+	width: 50%;
+	height: 60%;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	
+}
+p {
+margin: 15px;
+font-family: Times New Roman, Helvetica, sans-serif;
+font-size: 20px;
+background: rgba(0, 0,255, 0.2);
+border-radius: 20px;
+width: 40%;
+height: 40%;
+}
+
+main {
+margin: 15px;
+font-family: Times New Roman, Helvetica, sans-serif;
+
+}
+
+footer{
+margin: 15px;	
+}
+
+table, td {
+	border: solid 1px pink;
+	border-radius: 15px;
+	margin: 15px;
+}
+
+td {
+	padding: 10px;
+}
+
+#tbl_categorias {
+	border-color: pink;
+	padding: 20px;
+	border: solid 1px pink;
+	border-radius: 20px;
+}
+
+
+#tbl_categorias td :d{
+	border-color: blue;
+	background: #eee;
+}
